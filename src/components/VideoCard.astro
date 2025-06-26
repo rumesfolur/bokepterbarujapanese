@@ -27,6 +27,7 @@ const videoSlug = slugify(video.title);
         preload="none"
         loop
         muted
+        caption={video.title}
         class="video-preview"
         data-src={video.previewUrl}
         onerror="this.closest('.video-card').classList.add('video-preview-error');"
