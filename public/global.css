@@ -96,7 +96,7 @@ h1 {
   color: var(--primary-color);
 }
 h2 {
-  font-size: 1.55rem;
+  font-size: 1.6rem;
   font-weight: 700;
 }
 h3 {
@@ -910,7 +910,7 @@ footer {
     font-size: 2rem;
   }
   h2 {
-    font-size: 1.34rem;
+    font-size: 1.4rem;
   }
   h3 {
     font-size: 1.3rem;
@@ -934,7 +934,7 @@ footer {
     font-size: 1.3rem;
   }
   main.video-detail-page h2 {
-    font-size: 0.96rem;
+    font-size: 1.1rem;
   }
   main.video-detail-page h3 {
     font-size: 0.95rem;
@@ -1114,7 +1114,7 @@ footer {
     font-size: 1.5rem;
   }
   h2 {
-    font-size: 1.05rem;
+    font-size: 1.1rem;
   }
   h3 {
     font-size: 1rem;
